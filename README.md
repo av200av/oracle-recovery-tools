@@ -12,7 +12,7 @@ All scanning operations run in **read-only mode** — your original database fil
 
 ## Supported Versions
 
-- Oracle 10g
+- Oracle 7~10g
 - Oracle 11g
 - Oracle 12c
 - Oracle 18c
